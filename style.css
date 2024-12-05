@@ -123,12 +123,12 @@ td {
 @media only screen and (min-width: 421px) and 
 (max-width: 1024px){
     body{
-      background-color: lightyellow}
+      background-color: #8b8b8b}
     }
 
 @media only screen and (max-width:420px) {
     body{
-        background-color:lightgreen;
+        background-color:#8b8b8b;
     }
 }
 
