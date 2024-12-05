@@ -67,10 +67,6 @@ margin-right: 20%;
     border-radius: 10%;
 }
 
-.image1 {
-    width: 50%;
-    float: unset;
-}
 
 .flex-container {
     display: flex;
@@ -93,10 +89,27 @@ margin-right: 20%;
     
 }
 .table2 {
+    
+    padding: 8px;
+    border: 2px solid back;
+}
+.table3 {
     display: flex;
     flex-wrap: wrap;
     padding: 8px;
     border: 2px solid back;
+}
+.table4 {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 8px;
+    border: 2px solid back;
+}
+.table5 {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 12px;
+    border: 6px solid back;
 }
 
 td {
@@ -135,7 +148,7 @@ p {
 
 
 footer {
-    position: fixed;
+    
     left: 10%;
     right: 10%;
     bottom: 0;
