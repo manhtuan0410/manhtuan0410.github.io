@@ -9,7 +9,7 @@ header {
 nav {
     position: absolute;
     top: 0;
-    background-color: black;
+    background-color: rgb(58, 58, 58);
     left: 10%;
     right: 10%;
     text-align: right;
@@ -30,9 +30,6 @@ nav {
     width: 60%;
     margin-top: 10%;
     transition: all 0.3s ease;
-    text-align: center;
-    display: inline-block;
-    text-decoration: none;
 }
 
 .button-1:hover {
@@ -47,7 +44,6 @@ nav {
     .button-1 {
         width: 80%;
         padding: 8px 16px;
-        font-size: 14px;
     }
 
     .button-1:hover {
@@ -59,7 +55,6 @@ nav {
     .button-1 {
         width: 100%;
         padding: 6px 12px;
-        font-size: 12px;
     }
 
     .button-1:hover {
