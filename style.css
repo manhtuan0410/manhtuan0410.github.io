@@ -15,6 +15,7 @@ nav {
     text-align: right;
     padding: 20px;
 }
+
 .button-1 {
     padding: 10px 20px;
     border-radius: 10px;
@@ -33,9 +34,32 @@ nav {
 
 .button-1:hover {
     padding: 12px 22px;
-    background-color: rgb(58, 58, 58);
+    background-color: #0056b3;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
     transform: translateY(-2px);
+}
+
+/* Responsive Styles */
+@media (max-width: 768px) {
+    .button-1 {
+        width: 80%;
+        padding: 8px 16px;
+    }
+
+    .button-1:hover {
+        padding: 10px 18px;
+    }
+}
+
+@media (max-width: 480px) {
+    .button-1 {
+        width: 100%;
+        padding: 6px 12px;
+    }
+
+    .button-1:hover {
+        padding: 8px 14px;
+    }
 }
 
 
