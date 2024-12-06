@@ -16,8 +16,8 @@ nav {
     padding: 20px;
 }
 .button-1:hover {
-    padding: 1em 1em;
-    border-radius:5%;
+    padding: 5px;
+    border-radius: 10px;
     outline: none;
     color: rgb(255, 255, 255);
     
