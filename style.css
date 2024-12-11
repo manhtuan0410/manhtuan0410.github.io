@@ -142,8 +142,12 @@ h3 {
     border: 6px solid back;
 }
 
-td {
-    
+tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+td:nth-child(even) {
+    background-color: #5b5b5b;
     margin: 40px;
     padding: 4px;
     border: 2px solid back;
