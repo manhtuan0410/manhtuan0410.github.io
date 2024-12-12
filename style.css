@@ -117,25 +117,25 @@ h3 {
 .table2 {
     
     padding: 8px;
-    border: 2px solid back;
+    border: 2px solid black;
 }
 .table3 {
     display: flex;
     flex-wrap: wrap;
     padding: 8px;
-    border: 2px solid back;
+    border: 2px solid black;
 }
 .table4 {
     display: flex;
     flex-wrap: wrap;
     padding: 8px;
-    border: 2px solid back;
+    border: 2px solid black;
 }
 .table5 {
     display: flex;
     flex-wrap: wrap;
     padding: 12px;
-    border: 6px solid back;
+    border: 6px solid black;
 }
 
 
@@ -144,7 +144,7 @@ td:nth-child(even) {
     background-color: #5b5b5b;
     margin: 40px;
     padding: 4px;
-    border: 2px solid back;
+    border: 2px solid black;
 }
 
 p {
