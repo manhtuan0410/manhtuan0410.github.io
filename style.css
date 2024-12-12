@@ -103,7 +103,7 @@ h3 {
 }
 
 .flex-item {
-    flex: right;
+    flex-direction: right;
     margin: 5px;
     
 }
