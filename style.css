@@ -156,7 +156,6 @@ p {
 .icon {
     width: 60px;
     
-    flex: inline-end;
     padding: 15px;
     margin: 15px;
 }
